@@ -10,6 +10,4 @@
 - Chuẩn bị cho đồ án tốt nghiệp
 
 ## Tiến trình
-- Tuần 1: Python cơ bản + CSV
-- Tuần 2: ML cơ bản
-- Tuần 3: Mini project
+- Tuần 1: Đã setup repo, làm quen GitHub, Python cơ bản
